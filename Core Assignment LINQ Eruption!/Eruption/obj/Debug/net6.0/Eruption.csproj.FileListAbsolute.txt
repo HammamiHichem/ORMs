@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\bin\Debug\net6.0\Eruption.exe
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\bin\Debug\net6.0\Eruption.deps.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\bin\Debug\net6.0\Eruption.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\bin\Debug\net6.0\Eruption.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\bin\Debug\net6.0\Eruption.pdb
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\refint\Eruption.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.pdb
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\Eruption.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment LINQ Eruption!\Eruption\obj\Debug\net6.0\ref\Eruption.dll

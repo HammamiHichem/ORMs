@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eKCWpZH9oiwjmpLXRSAYiNgktduur7f822mXJVqvNt7vtkrNar3RW28z9k40PJqCcdaBsm9p+J6D5aIDD3iKiw==",
+  "dgSpecHash": "e8uae/4d3coMQ1dA/vUM1XKHqLF9NQMEA71qwDZoRDk05IRxc3cS7049HElf/jzRSgQVpqaF/bvASgDf/qaz4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Practice Assignment First Connection\\FirstConnection\\FirstConnection.csproj",
+  "projectFilePath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Practice Assignment First Connection\\FirstConnection\\FirstConnection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hichem Hammami\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hichem Hammami\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

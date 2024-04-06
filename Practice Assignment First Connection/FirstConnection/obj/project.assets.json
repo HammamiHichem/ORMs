@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Practice Assignment First Connection\\FirstConnection\\FirstConnection.csproj",
+      "projectUniqueName": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Practice Assignment First Connection\\FirstConnection\\FirstConnection.csproj",
       "projectName": "FirstConnection",
-      "projectPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Practice Assignment First Connection\\FirstConnection\\FirstConnection.csproj",
+      "projectPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Practice Assignment First Connection\\FirstConnection\\FirstConnection.csproj",
       "packagesPath": "C:\\Users\\Hichem Hammami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Practice Assignment First Connection\\FirstConnection\\obj\\",
+      "outputPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Practice Assignment First Connection\\FirstConnection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hichem Hammami\\AppData\\Roaming\\NuGet\\NuGet.Config"

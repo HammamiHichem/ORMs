@@ -1,0 +1,33 @@
+/* Styles pour le header */
+header[b-6irr3pmy49] {
+  background-color: #f8f9fa; /* Couleur de fond */
+}
+
+.navbar-brand[b-6irr3pmy49] {
+  font-size: 1.5rem; /* Taille de la police pour le titre */
+  font-weight: bold; /* Gras pour le titre */
+}
+
+.navbar-nav[b-6irr3pmy49] {
+  margin-left: auto; /* Déplacer les éléments à droite */
+}
+
+.nav-item[b-6irr3pmy49] {
+  margin-right: 10px; /* Espacement entre les éléments de navigation */
+}
+
+/* Style pour le footer */
+footer[b-6irr3pmy49] {
+  padding: 20px 0; /* Espacement intérieur du footer */
+  background-color: #f8f9fa; /* Couleur de fond */
+}
+
+/* Style pour le lien Privacy dans le footer */
+footer a[b-6irr3pmy49] {
+  color: #6c757d; /* Couleur du texte */
+  text-decoration: none; /* Pas de soulignement */
+}
+
+footer a:hover[b-6irr3pmy49] {
+  text-decoration: underline; /* Soulignement au survol */
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dishes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eaf250633660e82b2392492114155194c40544b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5671eea42a1a7f5fcf5431f505ce68da9bd17fc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dishes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dishes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

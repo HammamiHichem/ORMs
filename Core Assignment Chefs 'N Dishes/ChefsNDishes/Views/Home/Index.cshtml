@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ChefsNDishes.Models.Chef>
+
+<h1>Check out our roster of chefs!</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th># of Dishes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var chef in Model)
+        {
+            <tr>
+                <td>@(chef.FirstName + " " + chef.LastName)</td>
+                <td>@chef.CalculateAge()</td>
+                <td>Replace with Dish ID</td> <!-- Replace this with actual Dish ID -->
+            </tr>
+        }
+    </tbody>
+</table>

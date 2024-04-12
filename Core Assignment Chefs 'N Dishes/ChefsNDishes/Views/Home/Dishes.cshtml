@@ -1,0 +1,25 @@
+@model IEnumerable<ChefsNDishes.Models.Dish> // Assurez-vous que le modèle correspond au type de données que vous souhaitez afficher
+
+<h1>Yum! Check out our today dishes!</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Chef</th>
+            <th>Tastiness</th>
+            <th>Calories</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dish in Model)
+        {
+            <tr>
+                <td>@dish.Name</td>
+                <td>@dish.Calories</td>
+                <td>@dish.Tastiness</td>
+                <td>@dish.Chef?.FirstName @dish.Chef?.LastName</td> // Supposons que vous souhaitez afficher le nom complet du chef
+            </tr>
+        }
+    </tbody>
+</table>

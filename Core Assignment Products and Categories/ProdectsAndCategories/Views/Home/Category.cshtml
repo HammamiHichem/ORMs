@@ -1,0 +1,21 @@
+@model List<ProductsAndCategories.Models.Product>
+
+<div class="text-center">
+    @await Html.PartialAsync("_AddProduct", Model)
+</div>
+
+<div class="col-6">
+    <h2>All Products</h2>
+    @foreach (var product in Model)
+    {
+        <h3>@product.Name</h3>
+        <ul>
+            @foreach (var association in product.Associations)
+            {
+                <li>@(association.Category?.Name)</li>
+            }
+        </ul>
+    }
+</div>
+
+@using ProductsAndCategories.Models;

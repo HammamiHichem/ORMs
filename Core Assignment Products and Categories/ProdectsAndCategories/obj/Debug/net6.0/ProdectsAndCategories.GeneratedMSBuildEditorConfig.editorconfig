@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProdectsAndCategories
+build_property.RootNamespace = ProdectsAndCategories
+build_property.ProjectDir = C:\Users\Hichem Hammami\Desktop\ORMs\Core Assignment Products and Categories\ProdectsAndCategories\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hichem Hammami\Desktop\ORMs\Core Assignment Products and Categories\ProdectsAndCategories
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/AllProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/Association.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBc3NvY2lhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jbtpy1p5q5

@@ -1,0 +1,19 @@
+﻿@model ProductsAndCategories.Models.MyViewModel
+
+<div class="text-center">
+    @await Html.PartialAsync("_AddProduct", Model.Product)
+</div>
+
+<div class="col-6">
+    <h2>All Product</h2>
+    @foreach (var product in Model.AllProducts)
+    {
+        <h3>@product.Name</h3>
+        <ul>
+            @foreach (var category in product.AllCategories)
+            {
+                <li>@category.Name</li>
+            }
+        </ul>
+    }
+</div>

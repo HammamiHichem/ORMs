@@ -1,0 +1,18 @@
+@using ProductsAndCategories.Models
+@model ProductsAndCategories.Models.MyViewModel
+
+<div class="text-center">
+    <h1>Category</h1>
+    @await Html.PartialAsync("_AddCategory", Model.Category)
+    <div class="col-6">
+        <h2>All Categories</h2>
+        @foreach (var category in Model.AllCategories)
+        {
+            <h3>@category.Name</h3>
+            @foreach (var association in category.AllProducts)
+            {
+                <li>@(association.Product?.Name ?? "No product")</li>
+            }
+        }
+    </div>
+</div>

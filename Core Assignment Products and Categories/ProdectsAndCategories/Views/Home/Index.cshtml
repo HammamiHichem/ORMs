@@ -1,0 +1,30 @@
+﻿@model List<ProductsAndCategories.Models.Product>
+
+<h1>List of Products</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Categories</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>@product.Price</td>
+                <td>
+                    @foreach (var association in product.Associations)
+                    {
+                        <span>@association.Category.Name</span><br />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

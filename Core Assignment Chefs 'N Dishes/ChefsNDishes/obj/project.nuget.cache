@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A2o6I0jjRr6/3gwh0iGZwjvAU1mr1QAUD49e80dGReZfDcYA+x5zQPM3qG1tEy+7AkwUUHt525rA1mBW+BCm2g==",
+  "dgSpecHash": "j9GKIlqCVU43JUjTSwCcwKqZd+7G4Ej1TUjotfpR7o9SRLsUlzFutkKOzsF6UE9XBQBG7gKVjJxs191+Wgrd1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\ChefsNDishes.csproj",
+  "projectFilePath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\ChefsNDishes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hichem Hammami\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hichem Hammami\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

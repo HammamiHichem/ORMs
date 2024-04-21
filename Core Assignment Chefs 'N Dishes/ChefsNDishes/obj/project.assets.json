@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\ChefsNDishes.csproj",
+      "projectUniqueName": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\ChefsNDishes.csproj",
       "projectName": "ChefsNDishes",
-      "projectPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\ChefsNDishes.csproj",
+      "projectPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\ChefsNDishes.csproj",
       "packagesPath": "C:\\Users\\Hichem Hammami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs_Cores & Practices\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\obj\\",
+      "outputPath": "C:\\Users\\Hichem Hammami\\Desktop\\ORMs\\Core Assignment Chefs 'N Dishes\\ChefsNDishes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hichem Hammami\\AppData\\Roaming\\NuGet\\NuGet.Config"

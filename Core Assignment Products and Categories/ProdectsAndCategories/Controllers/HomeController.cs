@@ -1,8 +1,8 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ProductsAndCategories.Models; // Assurez-vous de spécifier le bon espace de noms où se trouve ErrorViewModel
-
+using ProductsAndCategories.Models;
+using System.Diagnostics;
+using System.Linq;
 
 namespace ProdectsAndCategories.Controllers
 {
@@ -17,19 +17,46 @@ namespace ProdectsAndCategories.Controllers
             _context = context;
         }
 
+        // Action pour afficher la liste des produits
         public IActionResult Index()
         {
             var allProducts = _context.Products.Include(p => p.Associations).ThenInclude(pc => pc.Category).ToList();
-            return View(allProducts);
+    return View(allProducts);
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        [HttpPost("/add/category")]
-        public IActionResult AddCategory(Category newCategory)
+        // Action pour afficher la page d'ajout de produit
+        [HttpGet("/AddProduct")]
+        public IActionResult ProductForm()
+        {
+            return View();
+        }
+
+        // Action pour traiter la soumission du formulaire d'ajout de produit
+        [HttpPost("/add/product")]
+        public IActionResult CreateProduct(Product product)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(newCategory);
+                _context.Products.Add(product);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View("ProductForm", product); 
+        }
+
+        // Action pour afficher la page d'ajout de catégorie
+        public IActionResult CategoryForm()
+        {
+            return View();
+        }
+
+        // Action pour traiter la soumission du formulaire d'ajout de catégorie
+        [HttpPost("/add/category")]
+        public IActionResult CreateCategory(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Categories.Add(category);
                 _context.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -40,29 +67,7 @@ namespace ProdectsAndCategories.Controllers
             }
         }
 
-        [HttpGet("/product")]
-        public IActionResult Product()
-        {
-            var allProducts = _context.Products.Include(p => p.Associations).ThenInclude(pc => pc.Category).ToList();
-            var myModel = new MyViewModel
-            {
-                AllProducts = allProducts,
-            };
-            return View(myModel);
-        }
-
-        [HttpPost("/add/product")]
-        public IActionResult CreateProduct(Product product)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.Products.Add(product);
-                _context.SaveChanges();
-                return RedirectToAction("Index");
-            }
-            return View(product);
-        }
-
+        // Action pour afficher la page d'association entre produits et catégories
         [HttpGet("/association")]
         public IActionResult Association()
         {
@@ -71,6 +76,7 @@ namespace ProdectsAndCategories.Controllers
             return View();
         }
 
+        // Action pour traiter la soumission du formulaire d'association entre produits et catégories
         [HttpPost("/association/add")]
         public IActionResult AddAssociation(Association newAssociation)
         {
@@ -83,15 +89,11 @@ namespace ProdectsAndCategories.Controllers
             return View("Association");
         }
 
+        // Action pour afficher la page d'erreur
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-
-        private class MyViewModel
-        {
-            public List<Product>? AllProducts { get; set; }
         }
     }
 }

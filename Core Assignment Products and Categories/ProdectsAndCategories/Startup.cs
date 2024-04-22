@@ -52,6 +52,10 @@ namespace ProductsAndCategories
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapControllerRoute(
+                    name: "AddCategory",
+                    pattern: "AddCategory",
+                    defaults: new { controller = "Home", action = "CategoryForm" });
             });
         }
     }

@@ -18,14 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Hichem Hammami\Desktop\ORMs\Core Assignment Products and Categories\ProdectsAndCategories
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/AddCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRDYXRlZ29yeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/AddProduct.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRQcm9kdWN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/AllProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,12 +30,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/CategoryForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeUZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Home/ProductForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0Rm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Hichem Hammami/Desktop/ORMs/Core Assignment Products and Categories/ProdectsAndCategories/Views/Shared/Error.cshtml]

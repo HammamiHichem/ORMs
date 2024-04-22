@@ -2,10 +2,10 @@
 
 <h1>Add New Category</h1>
 
-<form method="post" action="/add/category">
+<form method="post" action="/AddCategory">
     <div class="form-group">
-        <label for="name">Category Name:</label>
-        <input type="text" id="name" name="name" class="form-control" />
+        <label for="Name">Category Name:</label>
+        <input type="text" id="Name" name="Name" class="form-control" />
         <span asp-validation-for="Name" class="text-danger"></span>
     </div>
     <button type="submit" class="btn btn-primary">Add Category</button>

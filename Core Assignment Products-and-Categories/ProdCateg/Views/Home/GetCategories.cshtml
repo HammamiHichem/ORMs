@@ -1,0 +1,9 @@
+@model IEnumerable<ProductsAndCategories.Models.Category>
+
+<h2>All Categories</h2>
+<ul>
+    @foreach (var category in Model)
+    {
+        <li>@category.Name</li>
+    }
+</ul>

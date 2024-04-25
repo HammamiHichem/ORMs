@@ -1,0 +1,123 @@
+﻿/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+/* Product section styles */
+.product-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.product-list {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.product-list h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.product-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.product-list li {
+  margin-bottom: 10px;
+  font-size: 18px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.product-list li:last-child {
+  border-bottom: none;
+}
+
+/* Add product form styles */
+.add-product-form {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.add-product-form h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.add-product-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.add-product-form input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-product-form button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+}
+
+.add-product-form button:hover {
+  background-color: #1b6ec2;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Link styles */
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

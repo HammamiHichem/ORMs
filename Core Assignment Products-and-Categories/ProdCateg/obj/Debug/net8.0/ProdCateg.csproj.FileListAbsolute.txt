@@ -1,0 +1,80 @@
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.exe
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.deps.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.pdb
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.sourcelink.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.ProdCateg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.build.ProdCateg.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProdCateg.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProdCateg.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\scopedcss\bundle\ProdCateg.styles.css
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\scopedcss\projectbundle\ProdCateg.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.csproj.Up2Date
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\refint\ProdCateg.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.pdb
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products and Categories\ProdCateg\obj\Debug\net8.0\ref\ProdCateg.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.exe
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.deps.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\ProdCateg.pdb
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.sourcelink.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.ProdCateg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.build.ProdCateg.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProdCateg.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProdCateg.props
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\scopedcss\bundle\ProdCateg.styles.css
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\scopedcss\projectbundle\ProdCateg.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.csproj.Up2Date
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\refint\ProdCateg.dll
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.pdb
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ProdCateg.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\ORMs_Cores & Practices\Core Assignment Products-and-Categories\ProdCateg\obj\Debug\net8.0\ref\ProdCateg.dll

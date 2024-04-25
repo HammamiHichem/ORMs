@@ -1,0 +1,123 @@
+/* General styles */
+body[b-m5e7g0j6tp] {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container[b-m5e7g0j6tp] {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.text-center[b-m5e7g0j6tp] {
+  text-align: center;
+}
+
+/* Header styles */
+header[b-m5e7g0j6tp] {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+header h1[b-m5e7g0j6tp] {
+  font-size: 36px;
+}
+
+header nav a[b-m5e7g0j6tp] {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+/* Product section styles */
+.product-section[b-m5e7g0j6tp] {
+  display: flex;
+  justify-content: space-between;
+}
+
+.product-list[b-m5e7g0j6tp] {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.product-list h2[b-m5e7g0j6tp] {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.product-list ul[b-m5e7g0j6tp] {
+  list-style-type: none;
+  padding: 0;
+}
+
+.product-list li[b-m5e7g0j6tp] {
+  margin-bottom: 10px;
+  font-size: 18px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.product-list li:last-child[b-m5e7g0j6tp] {
+  border-bottom: none;
+}
+
+/* Add product form styles */
+.add-product-form[b-m5e7g0j6tp] {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.add-product-form h2[b-m5e7g0j6tp] {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.add-product-form label[b-m5e7g0j6tp] {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.add-product-form input[type="text"][b-m5e7g0j6tp] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-product-form button[b-m5e7g0j6tp] {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+}
+
+.add-product-form button:hover[b-m5e7g0j6tp] {
+  background-color: #1b6ec2;
+}
+
+/* Footer styles */
+footer[b-m5e7g0j6tp] {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Link styles */
+a[b-m5e7g0j6tp] {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover[b-m5e7g0j6tp] {
+  text-decoration: underline;
+}
